@@ -1,6 +1,6 @@
 # RestAssured BDD Framework
 
-Due to my company policies, i can't share the real project here so creates a sample RestAssured BDD framework with Cucumber and TestNG for API automation testing.
+Due to my company policies, i can't share the real project details here. So created a sample RestAssured BDD framework with Cucumber and TestNG for API automation testing.
 
 ## Folder Structure
 
